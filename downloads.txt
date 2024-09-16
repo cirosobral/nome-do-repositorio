@@ -1,0 +1,36 @@
+Downloads e Preparação
+
+- Virtualbox V. 3.17.804
+
+https://www.virtualbox.org/
+
+- OpnSense
+
+https://opnsense.org/download/
+
+A aula foi montada com a versão 24.1 do OPNSense.
+
+Para outras versões algumas configurações ou comportamentos podem ser ligeiramente diferentes, mas creio que você não terá problemas de utilizar uma versão mais nova.
+
+Se quiser buscar a versão 24.1, no site abaixo do painel de download, selecione um dos mirrors.
+Depois que estiver na página do mirror, na barra de endereços do navegador remova o "/mirror" e carregue a página novamente.
+Vai haver links para várias versões, abra o link da versão 24.1.
+A seguir baixe o arquivo OPNsense-24.1-dvd-amd64.iso.bz2. Atenção do final BZ2.
+
+No windows, utilize o winrar ou 7-zip para descompactar.
+
+- Proxmox Virtualization Enviroment
+
+https://enterprise.proxmox.com/iso/
+
+Baixe a subversão do release proxmox-ve_8.0 mais nova que houver, na gravação do curso é a proxmox-ve_8.0-1.iso.
+Não baixe as mais novas se quiser seguir precisamente o que foi feito no curso e aproveitar melhor o conteúdo.
+
+Aqui vale o mesmo aviso que deixei acima, usar uma versão 8.x mais nova pode trazer algumas pequenas diferenças.
+
+- Debian
+
+http://cdimage.debian.org/debian-cd/12.6.0/amd64/iso-dvd/
+
+Baixe a versão do debian nesse link, apenas o DVD1.
+Não use a versão LIVE, pois apesar de ser menor, devido ao cenário do curso apresentou problemas.
